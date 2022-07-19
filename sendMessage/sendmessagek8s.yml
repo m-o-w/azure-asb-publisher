@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: sendmessage
-        image: sendmessage:1.0
+        image: sting672744/sendmessage:1.0
         ports:
         - containerPort: 8080
 
